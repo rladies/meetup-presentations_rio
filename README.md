@@ -17,9 +17,11 @@ Apresentação : Mapas em Leaflet - Priscila Hohberg
 [Apresentação : R na física - Clemencia Mora Herrera](https://github.com/rladies-rio/meetup-presentations_rio/blob/master/2017_Nov_23_Slides/Clemencia_R-Ladies_presentation_v2.pdf)
 
 ### 2º Meetup R-Ladies Rio - 27 Julho 2017   - Hotel Everest
-Titulos? PPTs?
+ETL - Keyla Caroline Peixoto  
+Visualização de Dados - Ingrid Luz e Natália Medina
+Sistemas de Recomendação - Celina Rebello
 
 ### Primeiro Meetup R-Ladies Rio  - 18 Maio 2017    - Senac
-Titulos? PPTS?
+Apresentação (teleconferência) Data Science, R e R-Ladies: um pouco da minha experiência no Vale do Silício - Gabriela de Queiroz
 
 
