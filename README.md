@@ -2,7 +2,7 @@
 
 ## Meetups 2020
 ### 1º Meetup R-Ladies Rio de Janeiro 2020 
-Apresentação : Shinydashboard - Lívia Rodrigues
+[Apresentação : Shinydashboard - Lívia Rodrigues](https://github.com/rladies-rio/meetup-presentations_rio/blob/master/2020_Jan_28_Slides/Livia_Rodrigues_RLadies_28-01-2020.pdf)
 
 ## Meetups 2019
 ### Meetup R-Ladies Rio de Janeiro  Outubro  2019 - 24 Outubro 2019 - CBPF 
@@ -10,7 +10,7 @@ Apresentação : Shinydashboard - Lívia Rodrigues
 
 ## Meetups 2018
 ### 4º Meetup R-Ladies Rio - 7 Junho 2018 - Oracle
-Apresentação : Mapas em Leaflet - Priscila Hohberg
+[Apresentação : Mapas em Leaflet - Priscila Hohberg](https://github.com/rladies-rio/meetup-presentations_rio/blob/master/2018_Jun_07_Slides/Priscila_Hohberg_meetupRLadies_Oracle.pdf)
 
 ## Meetups 2017
 ### 3º Meetup R-Ladies Rio - 23 Novembro 2017 - UERJ
