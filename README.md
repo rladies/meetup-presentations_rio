@@ -4,15 +4,15 @@
 
 ## Meetups 2020
 
-### Meetup Online R-Ladies Rio de Janeiro - 23 Julho 2020 - Zool
+### Meetup Online R-Ladies Rio de Janeiro - 23 Julho 2020 - Zoom
 [Apresentação: Do script ao pacote de R - Andrea Sánchez-Tapia]()
 
-[Tutorial]()
+[Tutorial - Andrea Sánchez-Tapia]()
 
 ### Meetup Online R-Ladies Rio de Janeiro - 27 Maio 2020 - Zoom
 [Apresentação: Trabalhos Reprodutíveis com R e git - Sara Mortara](https://github.com/saramortara/R-git-apresentacao/blob/master/trabalhos_reprodutiveis.pdf)
 
-[Tutorial em repositório autocontido e reprodutível](https://github.com/saramortara/R-git-tutorial) 
+[Tutorial em repositório autocontido e reprodutível - Sara Mortara](https://github.com/saramortara/R-git-tutorial) 
 
 ### 1º Meetup R-Ladies Rio de Janeiro - 28 Janeiro 2020 - WeWork Botafogo
 [Apresentação : Shinydashboard - Lívia Rodrigues](https://github.com/rladies-rio/meetup-presentations_rio/blob/master/2020_Jan_28_Slides/Livia_Rodrigues_RLadies_28-01-2020.pdf)
