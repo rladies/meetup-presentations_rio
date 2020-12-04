@@ -4,15 +4,22 @@
 
 ## Meetups 2020
 
-### Meetup Online R-Ladies Rio de Janeiro - 23 Julho 2020 - Zoom
-[Apresentação: Do script ao pacote de R - Andrea Sánchez-Tapia]()
+### Meetup Online R-Ladies Rio de Janeiro - R-Ladies Natal - 30 Setembro 2020 - Zoom
+[Tutorial de LatinR 2020: Escrevendo manuscritos acadêmicos usando RMarkdown](https://liibre.github.io/Latin-R/)
 
-[Tutorial - Andrea Sánchez-Tapia]()
+[Video](https://www.youtube.com/watch?v=Cxrc87AH2WM&t=257s)
+
+### Meetup Online R-Ladies Rio de Janeiro - 23 Julho 2020 - Zoom
+[Apresentação: Do script ao pacote de R - Andrea Sánchez-Tapia](https://andreasancheztapia.github.io/R-Ladies_meetup_julho_2020/#1)
+
+[Video](https://www.youtube.com/watch?v=NkahvnQizp0)
 
 ### Meetup Online R-Ladies Rio de Janeiro - 27 Maio 2020 - Zoom
 [Apresentação: Trabalhos Reprodutíveis com R e git - Sara Mortara](https://github.com/saramortara/R-git-apresentacao/blob/master/trabalhos_reprodutiveis.pdf)
 
 [Tutorial em repositório autocontido e reprodutível - Sara Mortara](https://github.com/saramortara/R-git-tutorial) 
+
+[Video](https://www.youtube.com/watch?v=4nfIbiS1Huw&t=924s)
 
 ### 1º Meetup R-Ladies Rio de Janeiro - 28 Janeiro 2020 - WeWork Botafogo
 [Apresentação : Shinydashboard - Lívia Rodrigues](https://github.com/rladies-rio/meetup-presentations_rio/blob/master/2020_Jan_28_Slides/Livia_Rodrigues_RLadies_28-01-2020.pdf)
